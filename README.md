@@ -1,5 +1,5 @@
 # Natural-Language-Processing
-Natural Language Precessing - Sentiment Analysis of IMDB Movie Reviews
+Natural Language Precessing - Sentiment Analysis of IMDB Movie Reviews with Machine Learning
 
 REQUIREMENTS
 -------------
@@ -16,7 +16,7 @@ sklearn        0.23.1
 Methods
 -------
 •Logistic Regression classifier,
-•Decision Tree (Karar ağacı) classifier,
+•Decision Tree classifier,
 •Random Forest classifier
 •K Neighbors(KNN) classifier
 •TF-IDF vectorisation
