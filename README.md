@@ -18,11 +18,11 @@ library       version
 
 Methods
 -------
-•Logistic Regression classifier,
-•Decision Tree classifier,
-•Random Forest classifier
-•K Neighbors(KNN) classifier
-•TF-IDF vectorisation
+* Logistic Regression classifier
+* Decision Tree classifier
+* Random Forest classifier
+* K Neighbors(KNN) classifier
+* TF-IDF vectorisation
 
 
 Dataset
