@@ -9,10 +9,10 @@ REQUIREMENTS
 
 library       version
 -------       -------
-Numpy          1.18.4
-Pandas         1.0.3
-Nltk           3.4.5
-sklearn        0.23.1
+* Numpy          1.18.4
+* Pandas         1.0.3
+* Nltk           3.4.5
+* sklearn        0.23.1
 
 
 
