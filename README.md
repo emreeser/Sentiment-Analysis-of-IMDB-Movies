@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Sentiment Analysis of IMDB Movie Reviews
 Natural Language Precessing - Sentiment Analysis of IMDB Movie Reviews with Machine Learning.
 
 Sentiment Analysis: It is a general definition given to the processes of defining and classifying the opinions or expressions specified by a piece of text through various algorithms in order to evaluate the attitude of a writer or a post towards a particular topic positively and negatively. Normally, the concept of sentiment analysis worldwide is also dealing with neutral opinion, but I will not take this into account.
